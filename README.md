@@ -1,7 +1,7 @@
 # BioFusion1
 The data file is inside the Zip file "LowCostSensorsBiometrics.zip".
 This should be unzipped and kept in the same folder as the code.  
-"...\LowCostSensorsBiometrics\1\*.txt"
+".../LowCostSensorsBiometrics/1/*.txt"
 
 The dataset portaion is used from the following work ...
 Jorge Blasco, Pedro Peris-Lopez, On the Feasibility of Low-Cost Wearable Sensors for Multi-Modal Biometric Verification
